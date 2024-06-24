@@ -1,9 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Crime in Chicago",
+    "section": "",
+    "text": "Chicago has been known as one of the most dangerous cities in America. many people believe that crimes have only been getting worse over the years. For example: motor theft in Chicago in 2022 is more than twice the amount in 2021 and the motor theft cases in 2023 were the highest they have every been in 20 years. The data is from data.cityofchicago.org and they update the data every day. I used this data to make graphs to see how crimes in Chicago have changed over the years and if COVID had an impact on crime rates. The data originally had over 8 million rows, so I had to filter some of them out and only keep the information that I wanted to analyze. Through the graphs, I saw many relationships that were unexpected. For example, I did not know that the narcotics related crimes had been going down. I was also shocked to see how few people were arrested because of motor theft."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This website is made by Mihir Kaushal on June 21st, 2024."
+    "text": "This website is made by Mihir Kaushal on June 21st, 2024.\nI created this website as part of kane’s Data Science Bootcamp. I made the website using the R language. I utilized the help of ChatGPT to fix any errors I ran into.\nI got inspired to do this project related to crimes in Chicago because I live in Chicago suburbs. I wanted to explore how crimes have changed over the years, especially with COVID slowing things down. Overall, I had a lot of fun making this project and I learned a lot through making the graphs and analyzing the data.\nMy Email: mihir.kaush@gmail.com  My LinkedIn: LinkedIn  GitHub Repository: GitHub Repo  Kane’s Data Science Bootcamp: Course Homepage"
   }
 ]

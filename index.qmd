@@ -1,5 +1,5 @@
 ---
-title: "KDSB Project"
+title: "Crime in Chicago"
 author: "Mihir Kaushal"
 output: 
   html_document:
@@ -25,6 +25,9 @@ library(knitr)
 library(readr)
 
 ```
+
+
+Chicago has been known as one of the most dangerous cities in America. many people believe that crimes have only been getting worse over the years. For example: motor theft in Chicago in 2022 is more than twice the amount in 2021 and the motor theft cases in 2023 were the highest they have every been in 20 years. The data is from data.cityofchicago.org and they update the data every day. I used this data to make graphs to see how crimes in Chicago have changed over the years and if COVID had an impact on crime rates. The data originally had over 8 million rows, so I had to filter some of them out and only keep the information that I wanted to analyze. Through the graphs, I saw many relationships that were unexpected. For example, I did not know that the narcotics related crimes had been going down. I was also shocked to see how few people were arrested because of motor theft. 
 
 
 ```{r}
