@@ -4,12 +4,12 @@ title: "About"
 
 This website is made by Mihir Kaushal on June 21st, 2024. 
 
-I created this website as part of kane's Data Science Bootcamp. I made the website using the R language. I utilized the help of ChatGPT to fix any errors I ran into. 
+I created this website as part of Kane's Data Science Bootcamp. I made the website using the R language. I utilized the help of ChatGPT to fix any errors I ran into. 
 
 I got inspired to do this project related to crimes in Chicago because I live in Chicago suburbs. I wanted to explore how crimes have changed over the years, especially with COVID slowing things down. Overall, I had a lot of fun making this project and I learned a lot through making the graphs and analyzing the data. 
 
 
 My Email: mihir.kaush@gmail.com  <br />
-My LinkedIn: [LinkedIn](www.linkedin.com/in/mihir-kaushal) <br />
+My LinkedIn: [LinkedIn](https://www.linkedin.com/in/mihir-kaushal/) <br />
 GitHub Repository: [GitHub Repo](https://github.com/MihirKaushal/KDSB_project) <br />
 Kane's Data Science Bootcamp: [Course Homepage](https://bootcamp.davidkane.info/)
