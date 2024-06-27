@@ -28,7 +28,7 @@ library(readr)  # Load readr for reading data
 
 <!-- Intro paragraph  -->
 
-Chicago has been known as one of the most dangerous cities in America. Many people believe that crimes have only been getting worse over the years. The data is from [data.cityofchicago.org](https://data.cityofchicago.org/) and they update the data every day. I used this data to make graphs to see how crimes in Chicago have changed over the years and if COVID had an impact on crime rates. The data originally had over 8 million rows, so I had to filter some of them out and only keep the information that I wanted to analyze. Through the graphs, I saw several relationships that were unexpected.
+Chicago has been known as one of the most dangerous cities in America. Many people believe that crimes have only been getting worse over the years. The data is from [data.cityofchicago.org](https://data.cityofchicago.org/) and they update the data every day. I used this data to make graphs to see how crimes in Chicago have changed over the years and if COVID had an impact on crime rates. The data originally had over 8 million rows, so I had to filter some of them out and only keep the information that I wanted to analyze. By analyzing the graphs, I saw several relationships that were unexpected.
 
 ```{r}
 # This graph shows the number of motor thefts in Chicago on the y axis, and the year (2001 - 2024) on the x axis,the color represents if there has been an arrest made or not.
@@ -68,7 +68,7 @@ knitr::include_graphics("motor_theft_graph.png")  # Include the saved plot in th
 
 ```
 
-we can see that the motor theft in Chicago in 2022 is more than twice the amount in 2021 and the motor theft cases in 2023 were the highest they have every been in 20 years. To me, it is unexpected how few people were arrested because of motor theft.
+We can see that the motor theft in Chicago in 2022 is more than twice the amount in 2021 and the motor theft cases in 2023 were the highest they have every been in 20 years. It is unexpected how few people were arrested because of motor theft.
 
 ```{r}
 # This graph shows the number of narcotics related crimes in Chicago on the y axis, and the year (2001 - 2024) on the x axis,the color represents if there has been an arrest made or not. 
@@ -108,7 +108,7 @@ knitr::include_graphics("narcotics_graph.png")  # Include the saved plot in the 
 
 ```
 
-Through this graph, we can see that the narcotics related crimes had been going down.
+From this graph, we can see that the narcotics related crimes had been going down.
 
 ```{r}
 # This graph shows the number of crimes in Chicago on the y axis, and the year (2019 - 2021) on the x axis,the color represents the type of crime. 
